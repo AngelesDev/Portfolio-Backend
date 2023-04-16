@@ -14,7 +14,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@CrossOrigin(origins = {"http://localhost:4200", "https://portfolio-backend-fjc1.onrender.com"})
+@CrossOrigin(origins = {"http://localhost:4200", "https://maria-valdez.netlify.app"})
 public class AboutController {
     @Autowired IAboutService iaboutService;
     
