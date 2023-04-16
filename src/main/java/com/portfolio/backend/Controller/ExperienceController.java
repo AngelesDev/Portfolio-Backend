@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = {"http://localhost:4200", "https://portfolio-backend-fjc1.onrender.com"})
 public class ExperienceController {
     @Autowired IExperienceService iexperienceService;
     
