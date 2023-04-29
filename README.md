@@ -13,7 +13,7 @@ Ten en cuenta que necesitas tener maven instalado, si no lo tienes instalado, ac
 
 **Aviso**: Para que la base de datos MySQL se ejecute, necesitas tener instalado `XAMPP` y en él ejecutar el servicio de `Apache` y el servicio de `MySQL`.
 
-Cuando se ejecute el programa, las tablas SQL se crearán automaticamente, puedes checarlo desde <a href="http://localhost/phpmyadmin" target="_blank">phpMyAdmin</a>
+Cuando se ejecute el programa, las tablas SQL se crearán automaticamente, puedes checarlo desde <a href="http://localhost/phpmyadmin" target="_blank">phpMyAdmin (necesitar tener xampp ejecutandose para acceder)</a>
 
 ## Como construirlo para producción
 
