@@ -1,7 +1,7 @@
 # Backend del Portfolio
 Esta es la parte backend del proyecto final de argentina programa 4.0
 
-**Tecnologias usadas**: Java, Spring Boot, MySQL, Clever Cloud y Render
+**Tecnologias usadas:** Java, Spring Boot, MySQL, Clever Cloud y Render
 
 Si quieres ver la parte frontend del proyecto hace click <a href="https://github.com/AngelesDev/Portfolio-Frontend">acá</a>
 
